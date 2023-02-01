@@ -25,7 +25,7 @@ function App() {
       <div className='flex'>
         <Commanings image={Pradhan} desig="(ग्राम प्रधान)"name='Shri Manohar Uniyal'/>
         <Commanings image={Nain}desig="(क्षेत्र पंचायत सदस्य)"name='Shri Nain Singh Gusain '/>
-        <Commanings image={Nain}desig="(जिला पंचायत सदस्य)"name=''/>
+        <Commanings image={Vinod}desig="(जिला पंचायत सदस्य)"name='Shri Vinod Kohli'/>
       </div>
       <p className='ml-4 text-xl text-left text-blue-500 font-extrabold mt-4'>RECENT PROJECTS</p>
       <div className='flex'>
