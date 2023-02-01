@@ -13,6 +13,8 @@ import Subhash from './components/subhash.jpeg';
 import Gate from './components/gate.jpeg';
 import Road from './components/road.webp';
 import Naagraja from'./components/naag.jpg'
+import Vinod from './components/vinod.jpg'
+
 
 
 function App() {
@@ -23,7 +25,7 @@ function App() {
       <div className='flex'>
         <Commanings image={Pradhan} desig="(ग्राम प्रधान)"name='Shri Manohar Uniyal'/>
         <Commanings image={Nain}desig="(क्षेत्र पंचायत सदस्य)"name='Shri Nain Singh Gusain '/>
-       
+        <Commanings image={Nain}desig="(जिला पंचायत सदस्य)"name=''/>
       </div>
       <p className='ml-4 text-xl text-left text-blue-500 font-extrabold mt-4'>RECENT PROJECTS</p>
       <div className='flex'>
@@ -37,7 +39,7 @@ function App() {
       <div className='h-20 w-80 ml-4  shadow-md shadow-black border-2 bg-gray-300 rounded-full '>
         <p className='mt-4 font-bold'>made with love❤️</p>
         <div>
-           <p className='ml-20 mb-4 font-semibold'>   --by Subhash negi💕</p>
+           <p className='ml-20 mb-4 font-semibold'>     --by Subhash negi💕</p>
         </div>
         
       </div>
