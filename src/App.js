@@ -13,7 +13,7 @@ import Subhash from './components/subhash.jpeg';
 import Gate from './components/gate.jpeg';
 import Road from './components/road.webp';
 import Naagraja from'./components/naag.jpg'
-import Vinod from './components/vinod.jpg'
+import Vinod from './components/vinod_kohli.jpg'
 
 
 
